@@ -23,7 +23,6 @@ Los manuales y papers relevantes están en la carpeta resources/.
 
 ---
 
-📌 Autor: [Tu Nombre]📅 
-
-Última actualización: [Fecha]
+📌 Autor: [Tu Nombre]
+📅 Última actualización: [Fecha]
 
