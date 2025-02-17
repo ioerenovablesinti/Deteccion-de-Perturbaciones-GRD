@@ -20,6 +20,7 @@ cd Proyecto_Redes
 
 ## 📚 Recursos y Bibliografía
 Los manuales y papers relevantes están en la carpeta resources/.
+
 ---
 
 📌 Autor: [Tu Nombre]📅 
