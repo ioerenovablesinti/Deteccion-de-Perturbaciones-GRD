@@ -8,7 +8,9 @@ Este proyecto implementa un sistema para analizar, detectar y predecir perturbac
 
 ## 🚀 Instalación
 Clonar el repositorio:
+
 `git clone https://github.com/USUARIO/Deteccion-de-Perturbaciones-GRD.git`
+
 `cd Proyecto_Redes`
 
 ## 🛠 Tecnologías Utilizadas
