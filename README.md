@@ -18,6 +18,7 @@ cd Deteccion-de-Perturbaciones-GRD`
 - Python 3.9+
 - InfluxDB 1.8 & 2.7
 - Grafana
+- Bertual
 - Machine Learning (RNN)
 - Pandas, NumPy, Matplotlib
 
