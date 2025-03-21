@@ -4,7 +4,7 @@
 Este proyecto implementa un sistema para analizar, detectar y predecir perturbaciones en redes eléctricas de una PyME ubicada en AMBA.
 
 ## Estructura del Proyecto
-![image](https://github.com/user-attachments/assets/11f2a3b8-d117-4378-b4ec-c38cf4824c0e)
+![image](https://github.com/user-attachments/assets/90270d6f-b821-4b98-a8ab-b5fe206509d0)
 
 ## 🚀 Instalación
 Clonar el repositorio:
