@@ -6,7 +6,6 @@ Este proyecto implementa un sistema para analizar, detectar y predecir perturbac
 ## Estructura del Proyecto
 ![image](https://github.com/user-attachments/assets/90270d6f-b821-4b98-a8ab-b5fe206509d0)
 
-
 ## 🚀 Instalación
 Clonar el repositorio:
 
@@ -28,6 +27,6 @@ Los manuales y papers relevantes están en la carpeta resources/.
 
 ---
 
-📌 Autor: [Tu Nombre]
-📅 Última actualización: [Fecha]
+📌 Autor: [INTI-IoE]
+📅 Última actualización: [21/03/2025]
 
