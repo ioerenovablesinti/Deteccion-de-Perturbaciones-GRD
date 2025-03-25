@@ -23,7 +23,7 @@ from functools import reduce
 
 from db_connector import DBConnector
 from config import INFLUXDB2_CONFIG
-from data_processing import clean_influx2_meta, clean_dataframe
+from data_processing.data_cleaning import clean_influx2_meta, clean_dataframe
 from visualization import plot_time_series
 
 ############################################################################################################
@@ -246,10 +246,10 @@ def main():
     # 1. CONSULTA A LA BD (Fecha de incumbencia de cada BD ... V1< 16/12/24 y V2>= 16/12/24)
     # ------------------------------------
     fecha_inicio_v1 = '2023-08-01T00:00:00Z'
-    fecha_fin_v1 = '2023-08-31T23:59:50Z'
+    fecha_fin_v1 = '2023-08-11T23:59:50Z'
     
     fecha_inicio_v2 = "2025-01-20T00:00:00Z"
-    fecha_fin_v2 = "2025-01-31T23:59:50Z"
+    fecha_fin_v2 = "2025-01-21T23:59:50Z"
     
     location = "MEDIA"
 
